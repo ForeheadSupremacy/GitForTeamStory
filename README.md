@@ -15,10 +15,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. Once upon a time, in the mysterious land of Question, there stood a magnificent castle...And inside lived a brave knight who couldn’t walk.(he was always riding his horse.)
+   ![castle](.png) ![knight](knight.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
+2. Then, out of nowhere—BOOM! 💥 A fearsome **dragon** appeared! Or... wait.  but maybe it was actually a **robot**? Was it breathing fire... or was that hydraulic steam? 
    (Nobody is sure yet.)
 
 3. The scientist shouted something very important but nobody wrote it down.  
