@@ -21,7 +21,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
    (Nobody is sure yet.)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. The scientist shouted something very important but nobody wrote it down.
+The scientist shouted something very important but nobody wrote it down.
+In the stunned silence that followed his cry of "Eureka!", a catastrophic power surge rocked the lab. The resulting explosion wiped his memory and destroyed his notes, turning the breakthrough into a ghost.Weeks later, while clearing the wreckage, a young assistant found the scientist's partially melted audio recorder. After days of careful work, she restored a single, distorted fragment of sound: the last few syllables of the shouted equation. It wasn't the whole answer, but it was the key.The lost knowledge was recovered, not from a perfect record, but from a whisper saved from the 
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
