@@ -24,7 +24,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a treasure chest…
 treasure chest
 
-5. Upon opening the chest, they found a map, but it had no directions. alt text
+5. Someone found a map! The bad news? It had absolutely no directions on it whatsoever.
 
 6. "Let's go to space!" a space pirate's voice shouted. He was "Captain Hook," who had been accidentally warped along with them (and had just now appeared in the story).
 
