@@ -28,9 +28,9 @@ treasure chest
 
 6. "Let's go to space!" a space pirate's voice shouted. He was "Captain Hook," who had been accidentally warped along with them (and had just now appeared in the story).
 
-7. A rocket blasted off, but at the same time the time machine broke down.
+7. A rocket blasted off just as the Time Machine broke down. A big crack opened in the middle of the machine. From that crack, a portal slowly appeared.
 
-8. The cat was supposed to talk here, but the line is missing.
+8. A cat jumped out of the light. It looked around and said, “Haha, guess I came at the perfect time.”
 
 9. In the forest, the detective discovered a mysterious alien portal glowing with lights.
 The cat purred knowingly:
