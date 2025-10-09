@@ -26,10 +26,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. Upon opening the chest, they found a map, but it had no directions.
+   ![alt text](/img/map.png)
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
