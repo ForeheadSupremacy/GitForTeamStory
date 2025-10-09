@@ -1,46 +1,3 @@
-<<<<<<< HEAD
-Group Members
-- Thiarakun Chanrungrueang 6809540153 (Head/Images Input)
-- ARIYA tangrojanakul 6609520108 (9-10 paragraph editor)
-- Chaiyapond Matemaolee 6809617043 (7-8 paragraph editor)
-- Siriphat Thanasuksopon 6809540179 (5-6 paragraph editor)
-- Narabodee Rueangsakpakdee 6809617076 (3-4 paragraph editor)
-- Suwaphat Jongjit 6809616946 (1-2 paragraph editor)
-
-# Team Story Challenge
-
-This is the starting draft of your team’s story.  
-Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
-
----
-
-## Our Wonderful Story
-
-1. Once upon a time, in the mysterious land of Question, there stood a magnificent castle...And inside lived a brave knight who couldn’t walk.(he was always riding his horse.)
-   ![castle](.png) ![knight](knight.png)
-
-2. Then, out of nowhere—BOOM! 💥 A fearsome **dragon** appeared! Or... wait.  but maybe it was actually a **robot**? Was it breathing fire... or was that hydraulic steam? 
-   (Nobody is sure yet.)
-
-3. The scientist shouted something very important but nobody wrote it down.  
-
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
-
-5. Upon opening the chest, they found a map, but it had no directions.
-   ![alt text](/img/map.png)
-
-6. "Let's go to space!" a space pirate's voice shouted. He was "Captain Hook," who had been accidentally warped along with them (and had just now appeared in the story).
-
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
-
-8. The cat was supposed to talk here, but the line is missing.  
-
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
-
-10. The ending… well, we don’t really have one. Please fix this.
-=======
 Group Members
 - Thiarakun Chanrungrueang 6809540153 (Head/Images Input)
 - Ariya Tngrojanakul 6609520108 (9-10 paragraph editor)
@@ -87,5 +44,4 @@ The cat purred knowingly:
 Dragons, ghosts, knights, ogres, and talking cats swirled in a rainbow of colors.
 They landed in a new dimension, the treasure chest now open, hearts racing with excitement.
 “Where are we now?” asked the scientist.
-“Somewhere amazing,” said the cat with a sly grin.
->>>>>>> 8907fed (Add funny ending (sections 9–10))
+“Somewhere amazing,” said the cat with a sly grin. 
