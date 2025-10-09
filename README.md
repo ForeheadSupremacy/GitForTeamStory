@@ -1,3 +1,11 @@
+Group Members
+- Thiarakun Chanrungrueang 6809540153 (Head/Images Input)
+- ARIYA tangrojanakul 6609520108 (9-10 paragraph editor)
+- Chaiyapond Matemaolee 6809617043 (7-8 paragraph editor)
+- Siriphat Thanasuksopon 6809540179 (5-6 paragraph editor)
+- Narabodee Rueangsakpakdee 6809617076 (3-4 paragraph editor)
+- Suwaphat Jongjit 6809616946 (1-2 paragraph editor)
+
 # Team Story Challenge
 
 This is the starting draft of your team’s story.  
