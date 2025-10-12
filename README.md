@@ -19,9 +19,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 2. Then, out of nowhere—BOOM! 💥 A fearsome dragon appeared! Or... wait. but maybe it was actually a robot? Was it breathing fire... or was that hydraulic steam? (Nobody is sure yet.)
 
-3. The scientist shouted something very important but nobody wrote it down.
+3. The scientist shouted something very important but nobody wrote it down.He yelled, "Watch out! The electromagnetic waves from it are about to distort the space-time dimension!" But his voice was drowned out by the hissing steam from that robot dragon.
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a treasure chest…
+treasure chestAnd then, the scientist's warning came true! As his shout faded, everything distorted. The knight, his horse, and the entire castle were sucked into a swirling vortex of strange colors. When they came to their senses, they found they were no longer in the castle but in the middle of a dense, unfamiliar forest. And right in front of them... a mysterious ancient treasure chest was sitting there.
 treasure chest
 
 5. Someone found a map! The bad news? It had absolutely no directions on it whatsoever.
