@@ -17,25 +17,34 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 1. Once upon a time, in the mysterious land of Question, there stood a magnificent castle...And inside lived a brave knight who couldn’t walk.(he was always riding his horse.) castle knight
 
+    ![Knight](img/CastleKnight.jpg)
+
 2. Then, out of nowhere—BOOM! 💥 A fearsome dragon appeared! Or... wait. but maybe it was actually a robot? Was it breathing fire... or was that hydraulic steam? (Nobody is sure yet.)
 
-3. The scientist shouted something very important but nobody wrote it down.
+    ![Dragon](img/FireRoboDragon.jpg)
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a treasure chest…
-treasure chest
+3. Suddenly, the scientist yelled, "Watch out! The electromagnetic waves from it are about to distort the space-time dimension!" But his voice was drowned out by the hissing steam from that robot dragon.
+
+4. And then, the scientist's warning came true! As his shout faded, everything distorted. The knight, his horse, and the entire castle were sucked into a swirling vortex of strange colors. When they came to their senses, they found they were no longer in the castle but in the middle of a dense, unfamiliar forest. And right in front of them... a mysterious ancient treasure chest was sitting there.
 
 5. Someone found a map! The bad news? It had absolutely no directions on it whatsoever.
+
+    ![Map](img/StoryMap.jpg)
 
 6. "Let's go to space!" a space pirate's voice shouted. He was "Captain Hook," who had been accidentally warped along with them (and had just now appeared in the story).
 
 7. A rocket blasted off just as the Time Machine broke down. A big crack opened in the middle of the machine. From that crack, a portal slowly appeared.
 
+    ![Portal](img/Portal.jpg)
+
 8. A cat jumped out of the light. It looked around and said, “Haha, guess I came at the perfect time.”
+
+    ![Cat](img/TalkinCat.png)
 
 9. In the forest, the detective discovered a mysterious alien portal glowing with lights.
 The cat purred knowingly:
 
-“I told you, the real adventure is just beginning.”
+    “I told you, the real adventure is just beginning.”
 
 10. The heroes held hands and jumped through the portal together.
 Dragons, ghosts, knights, ogres, and talking cats swirled in a rainbow of colors.
